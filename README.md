@@ -29,6 +29,7 @@ Make sure PHP and Composer are installed, then run:
 composer install
 
 Set up environment variables
+
 Copy the example environment file:
 cp .env.example .env
 Edit the .env file and update your database and app settings.
@@ -48,6 +49,7 @@ Then open your browser and go to:
 http://localhost:8000
 
 📖 Usage
+
 Use the dashboard to monitor inventory health
 
 Add and manage stock in the Inventory section
@@ -59,6 +61,7 @@ Monitor Alerts for low-stock or expired items
 Generate and review Reports for inventory and usage analysis
 
 🧰 Technologies Used
+
 🖥️ Backend: PHP (Laravel Framework)
 
 🎨 Frontend: Blade Templates, Bootstrap CSS
