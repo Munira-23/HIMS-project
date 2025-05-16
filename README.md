@@ -87,3 +87,12 @@ Please ensure your code follows the project’s coding standards and is well-doc
 
 📄 License
 This project is licensed under the MIT License.
+
+
+Future Improvements
+some features that could be added in future versions of the system:
+	•	Pharmacy Staff Role: Add a specific role for pharmacy personnel with custom access.
+	•	Email Notifications: Automatically notify relevant staff when stock is low or about to expire.
+	•	Barcode Scanning: Enable quick check-in/check-out of inventory items via barcode.
+	•	Mobile Responsiveness: Improve interface usability on mobile and tablet devices.
+	•	Automated Reordering: Trigger automatic purchase orders when stock reaches minimum thresholds.
