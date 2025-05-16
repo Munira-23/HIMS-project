@@ -1,4 +1,5 @@
 🏥 Hospital Inventory Management System (HIMS)
+
 A web-based application designed to streamline and automate the management of medical inventory in hospitals. This system helps track pharmaceuticals, medical equipment, and supplies — ensuring timely restocking and reducing losses due to expired or out-of-stock items.
 
 🚀 Features
